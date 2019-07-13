@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#822cdd</color>
+    <color name="colorPrimaryDark">#470989</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="box_color_sky_blue">#2159b2</color>
+</resources>
